@@ -1,0 +1,72 @@
+Proprietary Freeware License (PFL)
+Lengko.Ribbon.WinForm
+
+Copyright (c) 2026 LengkoDev, Cas. All rights reserved.
+
+1. DEFINITIONS
+   "Software" means the Lengko.Ribbon.WinForm library, including its
+   compiled binaries, XML documentation, icons, and any accompanying files
+   distributed in the NuGet package.
+   "Licensor" means LengkoDev, Cas.
+   "You" means any individual or legal entity using the Software.
+
+2. GRANT OF LICENSE
+   Subject to the terms of this License, the Licensor grants You a free,
+   non-exclusive, non-transferable, worldwide, revocable license to:
+   a) use the Software for personal, educational, and commercial purposes;
+   b) reference and integrate the Software into Your own applications; and
+   c) redistribute the unmodified compiled binaries of the Software solely as
+      part of Your application ("Integrated Distribution").
+
+3. RESTRICTIONS
+   You may NOT:
+   a) sell, rent, lease, sublicense, or otherwise charge a fee for the
+      Software itself;
+   b) redistribute the Software as a standalone product, library, component,
+      or package, including republishing it to NuGet or any other package
+      registry;
+   c) modify, adapt, translate, or create derivative works of the Software;
+   d) decompile, disassemble, or reverse engineer the Software, except to the
+      extent that applicable law expressly permits it despite this
+      limitation;
+   e) remove, alter, or obscure any copyright, trademark, or license notice
+      in the Software; or
+   f) use the name "Lengko" or the Licensor's name to endorse or promote
+      products derived from or built with the Software without prior written
+      permission.
+
+4. OWNERSHIP
+   The Software is licensed, not sold. The Licensor retains all right, title,
+   and interest in and to the Software, including all intellectual property
+   rights. The source code is proprietary and is not provided under this
+   License.
+
+5. FREEWARE / NO SUPPORT
+   The Software is provided free of charge. The Licensor has no obligation to
+   provide support, maintenance, updates, or bug fixes. The Licensor may change
+   or discontinue the Software at any time.
+
+6. TERMINATION
+   This License terminates automatically if You fail to comply with any of its
+   terms. Upon termination, You must stop using the Software and destroy all
+   copies in Your possession. Copies already distributed to end users as part
+   of an Integrated Distribution made in compliance with this License remain
+   licensed to those end users.
+
+7. DISCLAIMER OF WARRANTY
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+8. LIMITATION OF LIABILITY
+   IN NO EVENT SHALL THE LICENSOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER
+   LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING
+   FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OF OR OTHER
+   DEALINGS IN THE SOFTWARE, INCLUDING LOSS OF DATA OR PROFITS.
+
+9. ACCEPTANCE
+   By installing, copying, or using the Software, You agree to be bound by the
+   terms of this License. If You do not agree, do not install or use the
+   Software.
+
+For permissions beyond the scope of this License, contact the Licensor.
