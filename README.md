@@ -115,6 +115,8 @@ homeTab.Groups.Add(grpClip)
 ribbon.Tabs.Add(homeTab)
 form.Controls.Add(ribbon)
 ```
+<img width="1131" height="632" alt="image" src="https://github.com/user-attachments/assets/4de7583a-f086-464d-90f0-744b457c47cc" />
+<img width="1159" height="694" alt="image" src="https://github.com/user-attachments/assets/5c0b469f-72c1-492f-bd75-a26b3891c83b" />
 
 ---
 
