@@ -43,6 +43,44 @@ Dedicated solution: **`Lengko.Ribbon.sln`** (builds all 3 demos alongside the li
 
 ---
 
+## Installation (NuGet)
+
+[![NuGet](https://img.shields.io/nuget/v/Lengko.Ribbon.WinForm.svg)](https://www.nuget.org/packages/Lengko.Ribbon.WinForm)
+[![Downloads](https://img.shields.io/nuget/dt/Lengko.Ribbon.WinForm.svg)](https://www.nuget.org/packages/Lengko.Ribbon.WinForm)
+
+Package: [Lengko.Ribbon.WinForm](https://www.nuget.org/packages/Lengko.Ribbon.WinForm) on NuGet.org.
+
+### .NET CLI
+
+```powershell
+dotnet add package Lengko.Ribbon.WinForm
+```
+
+### Package Manager Console (Visual Studio)
+
+```powershell
+Install-Package Lengko.Ribbon.WinForm
+```
+
+### PackageReference (.csproj / .vbproj / .fsproj)
+
+```xml
+<ItemGroup>
+  <PackageReference Include="Lengko.Ribbon.WinForm" Version="1.0.0" />
+</ItemGroup>
+```
+
+### Visual Studio GUI
+
+1. Right-click the project, then select **Manage NuGet Packages...**
+2. Open the **Browse** tab and search for `Lengko.Ribbon.WinForm`.
+3. Click **Install**.
+
+Supported frameworks: `net472`, `net48`, `netcoreapp3.1`, `net5.0-windows` to `net10.0-windows`.
+
+---
+
+
 ## Quick Start / How to Run
 
 ### Via Visual Studio
